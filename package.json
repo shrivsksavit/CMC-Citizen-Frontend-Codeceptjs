@@ -1,0 +1,25 @@
+{
+  "name": "codeceptjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Test.js",
+  "dependencies": {
+    "codeceptjs": "^2.0.8",
+    "puppeteer": "^1.14.0",
+    "webdriverio": "^5.7.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrivsksavit/CMC-Citizen-Frontend-Codeceptjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrivsksavit/CMC-Citizen-Frontend-Codeceptjs/issues"
+  },
+  "homepage": "https://github.com/shrivsksavit/CMC-Citizen-Frontend-Codeceptjs#readme"
+}
