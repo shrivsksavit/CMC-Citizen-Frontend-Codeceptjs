@@ -8,3 +8,5 @@ Install codeceptjs webdriverio :- 		'npm i' or 'npm add' after run 'npm install 
 Install selenium server + chromeDriver	:- 	 sudo npm install -g selenium-standalone, 
                                         	 selenium-standalone install, 
                                          	 selenium-standalone start
+						 
+Run Test					./node_modules/.bin/codeceptjs run --grep "ClaimantA"
