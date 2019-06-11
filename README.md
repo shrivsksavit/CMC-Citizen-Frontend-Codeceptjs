@@ -1,5 +1,7 @@
 					# CMC-Citizen-Frontend-Codeceptjs
-
+					
+JavaScript Version : ECMAScript versions : 6+ 
+Run npm install, 
 Run Visual studio form terminal :- 		https://code.visualstudio.com/docs/setup/mac 
 
 Install codeceptjs webdriverio :- 		'npm i' or 'npm add' after run 'npm install codeceptjs webdriverio --save-dev'
